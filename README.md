@@ -5,6 +5,7 @@
 
 ## 项目产出物
 - UML用例图：useCase.png
+-本用例图定义包含用户和管理员两个角色
 - UML类图：classDiagram.png
 
 ## 版本控制说明
